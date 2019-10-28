@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import UserItem from './UserItem'
-import { getOuterBindingIdentifiers } from '@babel/types'
 
 class Users extends Component {
     state = {
